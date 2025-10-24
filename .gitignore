@@ -1,0 +1,6 @@
+*.class
+*.log
+target/
+.settings/
+.idea/
+*.iml
